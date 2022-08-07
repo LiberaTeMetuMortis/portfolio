@@ -7,13 +7,6 @@ I'm admin at [Provanas Minecraft Server](https://www.provanas.com)**
 
 ## Some of My Projects
 > I have a lot more projects but most of all are private & customers wanted me to not share
-### Node JS Projects<br/><br/>
-| Project                          |                                 ScreenShot & Link                                 |
-|:---------------------------------|:---------------------------------------------------------------------------------:|
-| Minecraft Integrated Discord Bot | [![BOT](https://i.imgur.com/zTdHxSg.png)](https://i.imgur.com/zTdHxSg.png) <br/>  | 
-| String - Binary Converter        | [Github Source](https://github.com/MetuMortis-code/string-binary-encrypt-decrypt) | 
-| Basic Moderation Discord Bot     |    [![BOT](https://i.imgur.com/Rm8YmvH.png)](https://i.imgur.com/Rm8YmvH.png)     |
-<br/><br/>
 ## Kotlin & Java Plugins<br/><br/>
 | Project            |                                                         ScreenShot & Link                                                         | 
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------:|
@@ -22,3 +15,10 @@ I'm admin at [Provanas Minecraft Server](https://www.provanas.com)**
 | EMPoint            |                                    [Github Source](https://github.com/MetuMortis-code/EMPoint)                                    |
 | XRayNotify         |                                  [Github Source](https://github.com/MetuMortis-code/XrayNotify)                                   |   
 | JoinQuitMessages   |                               [Github Source](https://github.com/MetuMortis-code/JoinQuitMessages)                                |
+<br/><br/>
+### Node JS Projects<br/><br/>
+| Project                          |                                 ScreenShot & Link                                 |
+|:---------------------------------|:---------------------------------------------------------------------------------:|
+| Minecraft Integrated Discord Bot | [![BOT](https://i.imgur.com/zTdHxSg.png)](https://i.imgur.com/zTdHxSg.png) <br/>  | 
+| String - Binary Converter        | [Github Source](https://github.com/MetuMortis-code/string-binary-encrypt-decrypt) | 
+| Basic Moderation Discord Bot     |    [![BOT](https://i.imgur.com/Rm8YmvH.png)](https://i.imgur.com/Rm8YmvH.png)     |
