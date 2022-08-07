@@ -22,5 +22,5 @@ I'm admin at [Provanas Minecraft Server](https://www.provanas.com)**
 | Project                          |                                 ScreenShot & Link                                 |
 |:---------------------------------|:---------------------------------------------------------------------------------:|
 | Minecraft Integrated Discord Bot | [![BOT](https://i.imgur.com/zTdHxSg.png)](https://i.imgur.com/zTdHxSg.png) <br/>  | 
-| String - Binary Converter        | [Github Source](https://github.com/MetuMortis-code/string-binary-encrypt-decrypt) | 
 | Basic Moderation Discord Bot     |    [![BOT](https://i.imgur.com/Rm8YmvH.png)](https://i.imgur.com/Rm8YmvH.png)     |
+| String - Binary Converter        | [Github Source](https://github.com/MetuMortis-code/string-binary-encrypt-decrypt) | 
