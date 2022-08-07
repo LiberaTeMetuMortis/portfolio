@@ -13,9 +13,11 @@ I'm admin at [Provanas Minecraft Server](https://www.provanas.com)**
 | RewardSystem       | [MCMarket Link](https://builtbybit.com/resources/⭐-reward-system-⭐-works-with-custom-mobs-✅-⚔%EF%B8%8F-50-sale-⚔%EF%B8%8F.24629/) |
 | KotlinSpigotPlugin |                          [Github Source](https://github.com/MetuMortis-code/KotlinSpigotPluginTemplate)                           |
 | EMPoint            |                                    [Github Source](https://github.com/MetuMortis-code/EMPoint)                                    |
-| XRayNotify         |                                  [Github Source](https://github.com/MetuMortis-code/XrayNotify)                                   |   
+| XRayNotify         |                                  [Github Source](https://github.com/MetuMortis-code/XrayNotify)                                   | 
 | JoinQuitMessages   |                               [Github Source](https://github.com/MetuMortis-code/JoinQuitMessages)                                |
+
 <br/><br/>
+
 ## Node JS Projects
 | Project                          |                                 ScreenShot & Link                                 |
 |:---------------------------------|:---------------------------------------------------------------------------------:|
