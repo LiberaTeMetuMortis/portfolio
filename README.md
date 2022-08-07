@@ -7,7 +7,7 @@ I'm admin at [Provanas Minecraft Server](https://www.provanas.com)**
 
 ## Some of My Projects
 > I have a lot more projects but most of all are private & customers wanted me to not share
-## Kotlin & Java Plugins<br/><br/>
+## Kotlin & Java Plugins
 | Project            |                                                         ScreenShot & Link                                                         | 
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------:|
 | RewardSystem       | [MCMarket Link](https://builtbybit.com/resources/⭐-reward-system-⭐-works-with-custom-mobs-✅-⚔%EF%B8%8F-50-sale-⚔%EF%B8%8F.24629/) |
@@ -15,9 +15,8 @@ I'm admin at [Provanas Minecraft Server](https://www.provanas.com)**
 | EMPoint            |                                    [Github Source](https://github.com/MetuMortis-code/EMPoint)                                    |
 | XRayNotify         |                                  [Github Source](https://github.com/MetuMortis-code/XrayNotify)                                   |   
 | JoinQuitMessages   |                               [Github Source](https://github.com/MetuMortis-code/JoinQuitMessages)                                |
-
-
-## Node JS Projects<br/><br/>
+<br/><br/>
+## Node JS Projects
 | Project                          |                                 ScreenShot & Link                                 |
 |:---------------------------------|:---------------------------------------------------------------------------------:|
 | Minecraft Integrated Discord Bot | [![BOT](https://i.imgur.com/zTdHxSg.png)](https://i.imgur.com/zTdHxSg.png) <br/>  | 
