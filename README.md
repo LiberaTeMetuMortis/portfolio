@@ -1,14 +1,16 @@
 # Who am I
 
-**I'm a 16yo Node JS, Java and Kotlin developer.    
-I work for Provanas Services    
+**I'm a 16yo Node JS, Java and Kotlin developer.
+I'm a freelancer at [Devroom](https://www.devroomteam.com/)
+I'm a freelancer at [Orbital Studios](https://twitter.com/StudioOrbitals)
 I work for [Senna Network](https://sennanetwork.com/) as a developer.
 I work for [Cold Network](https://coldnetwork.net/) as a developer.
+I work for [Provanas Services](https://www.provanas-services.com/)
 I was admin and developer at [Provanas Minecraft Server](https://www.provanas.com)**
 
 
 ## Some of My Projects
-> I have a lot more projects but most of all are private & customers wanted me to not share
+> I have a lot more projects but most of all are private & customers wanted me to not publicly share
 ## Kotlin & Java Spigot Plugins
 | Project            |                                                         ScreenShot & Link                                                         | 
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------:|
@@ -29,7 +31,7 @@ I was admin and developer at [Provanas Minecraft Server](https://www.provanas.co
 
  Avalon is a minigame in the [Provanas Minecraft Server](https://www.provanas.com)
 
- I and my friend [Yunus Emre](https://github.com/YunussEmree) done a lot of coding for the core of the Avalon plugin.
+ I and my friend [Yunus Emre](https://github.com/YunussEmree) done a lot of coding for the core of the Avalon core plugin.
  
  Some of them are:
 
