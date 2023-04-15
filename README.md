@@ -1,12 +1,13 @@
 # Who am I
 
-**I'm a 16yo Node JS, Java and Kotlin developer.
-I'm a freelancer at [Devroom](https://www.devroomteam.com/)
-I'm a freelancer at [Orbital Studios](https://twitter.com/StudioOrbitals)
-I work for [Senna Network](https://sennanetwork.com/) as a developer.
-I work for [Cold Network](https://coldnetwork.net/) as a developer.
-I work for [Provanas Services](https://www.provanas-services.com/)
-I was admin and developer at [Provanas Minecraft Server](https://www.provanas.com)**
+**I'm a 16yo Node JS, Java and Kotlin developer.**
+
+> **I'm a freelancer at [Devroom](https://www.devroomteam.com/).<br/>**
+> **I'm a freelancer at [Orbital Studios](https://twitter.com/StudioOrbitals).<br/>**
+>**I work for [Senna Network](https://sennanetwork.com/) as a developer. <br/>**
+>**I work for [Cold Network](https://coldnetwork.net/) as a developer. <br/>**
+>**I work for [Provanas Services](https://www.provanas-services.com/). <br/>**
+>**I was admin and developer at [Provanas Minecraft Server](https://www.provanas.com). <br/>**
 
 
 ## Some of My Projects
@@ -23,16 +24,13 @@ I was admin and developer at [Provanas Minecraft Server](https://www.provanas.co
 | SennaFarm          |                                   [Youtube Video](https://www.youtube.com/watch?v=asgZGxzn8LU)                                    |
 | DCWhitelist        |                                   [Youtube Video](https://www.youtube.com/watch?v=SDwbe2mBxdI)                                    |
 | SennaAnnounce      |                                            [Imgur Images](https://imgur.com/a/N4YVAcV)                                            |
-### Avalon Plugin Core
 
 
 
 
-
- Avalon is a minigame in the [Provanas Minecraft Server](https://www.provanas.com)
-
- I and my friend [Yunus Emre](https://github.com/YunussEmree) done a lot of coding for the core of the Avalon core plugin.
- 
+ ### Avalon Plugin Core
+ > Avalon is a minigame in the [Provanas Minecraft Server](https://www.provanas.com) <br/>
+ I and my friend [Yunus Emre](https://github.com/YunussEmree) done a lot of coding for the core of the Avalon core plugin. <br/>
  Some of them are:
 
 | Feature        |                                                       Gif                                                       |
