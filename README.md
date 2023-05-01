@@ -2,6 +2,7 @@
 
 **I'm a 16yo Node JS, Java and Kotlin developer.**
 
+> **I'm a freelancer at [Arcane Studios](https://arcanestudios.co/).<br/>**
 > **I'm a freelancer at [Devroom](https://www.devroomteam.com/).<br/>**
 > **I'm a freelancer at [Orbital Studios](https://twitter.com/StudioOrbitals).<br/>**
 >**I work for [Senna Network](https://sennanetwork.com/) as a developer. <br/>**
