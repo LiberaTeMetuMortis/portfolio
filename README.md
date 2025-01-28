@@ -20,7 +20,8 @@
 ## Kotlin & Java Spigot Plugins
 | Project            |                                                         ScreenShot & Link                                                         | 
 |:-------------------|:---------------------------------------------------------------------------------------------------------------------------------:|
-| RewardSystem       | [MCMarket Link](https://builtbybit.com/resources/⭐-reward-system-⭐-works-with-custom-mobs-✅-⚔%EF%B8%8F-50-sale-⚔%EF%B8%8F.24629/) |
+| RewardSystem       | [BuiltByBit Link](https://builtbybit.com/resources/⭐-reward-system-⭐-works-with-custom-mobs-✅-⚔%EF%B8%8F-50-sale-⚔%EF%B8%8F.24629/) |
+| ProOrbs            | [BuiltByBit Link](https://builtbybit.com/resources/proorbs.30350/)                                                                |
 | KotlinSpigotPlugin |                          [Github Source](https://github.com/MetuMortis-code/KotlinSpigotPluginTemplate)                           |
 | EMPoint            |                                    [Github Source](https://github.com/MetuMortis-code/EMPoint)                                    |
 | XRayNotify         |                                  [Github Source](https://github.com/MetuMortis-code/XrayNotify)                                   | 
