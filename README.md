@@ -4,10 +4,11 @@
 
 > **I'm a freelancer at [Arcane Studios](https://arcanestudios.co/).<br/>**
 > **I'm a freelancer at [Devroom](https://www.devroomteam.com/).<br/>**
+> **I'm a freelancer at [Rollerite Studios](https://rollerite.com).<br/>**
 > **I'm a freelancer at [Senior Studios](https://www.senior-studios.com/).<br/>**
->**I work for [Senna Network](https://sennanetwork.com/) as a developer. <br/>**
 >**I work for [Cold Network](https://coldnetwork.net/) as a developer. <br/>**
 >**I work for [Provanas Services](https://www.provanas-services.com/). <br/>**
+>**I work for [Senna Network](https://sennanetwork.com/) as a developer. <br/>**
 >**I was admin and developer at [Provanas Minecraft Server](https://www.provanas.com). <br/>**
 
 ## Some of my Reviews:
