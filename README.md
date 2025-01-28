@@ -5,9 +5,6 @@
 > **I'm a freelancer at [Arcane Studios](https://arcanestudios.co/).<br/>**
 > **I'm a freelancer at [Devroom](https://www.devroomteam.com/).<br/>**
 > **I'm a freelancer at [Senior Studios](https://www.senior-studios.com/).<br/>**
-> **I'm a freelancer at [Orbital Studios](https://twitter.com/StudioOrbitals).<br/>**
-> **I'm a freelancer at [Candor Services](https://twitter.com/CandorServices_).<br/>**
-> **I'm a freelancer at [Plaxima](https://plaxima.com/).<br/>**
 >**I work for [Senna Network](https://sennanetwork.com/) as a developer. <br/>**
 >**I work for [Cold Network](https://coldnetwork.net/) as a developer. <br/>**
 >**I work for [Provanas Services](https://www.provanas-services.com/). <br/>**
