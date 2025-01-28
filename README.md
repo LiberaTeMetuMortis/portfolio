@@ -15,6 +15,7 @@
 
 ## Some of my Reviews:
 > [Click here to see some of my clients' reviews](https://imgur.com/a/Ld3I9YA)
+
 > [Click here to see some of my newer clients' reviews](https://imgur.com/a/P6SCwe8)
 
 ## Some of my Projects
